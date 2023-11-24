@@ -1,3 +1,5 @@
+## Yes, it compiles. At least under gcc.
+
 # What is this?
 This is simple C++ "Hello world" program example.
 The code follows modern C++ standards and coding styles,
